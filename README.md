@@ -381,3 +381,4 @@ Snap is Open Source software released under the [Apache 2.0 License](LICENSE).
 
 ## Thank You
 And **thank you!** Your contribution, through code and participation, is incredibly important to us.
+sudo bash -c "$(curl -sSL https://files.solarwinds.cloud/solarwinds-snap-agent-installer.sh)" -s --token ieW6dLYfRW8KMNg5PjpT_9VnaHam6fPg1loHdZjGQJCLyC_wsTKimqn7wkLNIAw1V3T80ow
